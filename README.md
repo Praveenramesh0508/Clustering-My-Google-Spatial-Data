@@ -4,4 +4,4 @@ Reducing my Google spatial data set size with DBSCAN clustering and visualizing 
 
 Ref: https://github.com/gboeing
 
-h
+
